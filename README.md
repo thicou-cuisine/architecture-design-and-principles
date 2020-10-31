@@ -26,7 +26,7 @@ Make sure you know it works
 
 Aiming to deliver good function must not comppromise structural integrity
 * Don't create unflexible structures, you must be able to make changes without exhorbitant costs
-* Always refine the design so that the next change is easier (you can't do that if you don't test it
+* Always refine the design so that the next change is easier (you can't do that if you don't test it)
 
 ### Do no harm to end users
 
