@@ -1,5 +1,3 @@
-# Project Goal
-
 This project is meant to empower people with the confidence to cook everyday, save money and feel good about it.
 
 It's meant to show that :
